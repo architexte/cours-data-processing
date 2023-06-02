@@ -1,0 +1,11 @@
+pandas
+requests
+IPython.display
+bs4
+spacy
+lyricsgenius
+xml.etree.ElementTree
+fr_core_news_md
+collections
+displacy
+math
