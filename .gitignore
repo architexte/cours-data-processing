@@ -20,3 +20,6 @@ venv.bak/
 
 .twarc
 twarc.log
+
+## Auth
+api_key_my.py
