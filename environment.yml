@@ -6,6 +6,7 @@ dependencies:
   - beautifulsoup4=4.12.2
   - libxml2=2.10.3
   - lxml=4.9.2
+  - matplotlib-inline=0.1.6
   - pandas=1.5.3
   - pip=23.0.1
   - spacy=3.5.3
@@ -18,3 +19,4 @@ dependencies:
   - pip:
     - lyricsgenius==3.0.1
     - spacyfishing==0.1.8
+    - matplotlib==3.7.1
